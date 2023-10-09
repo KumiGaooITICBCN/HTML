@@ -1,0 +1,19 @@
+.tablamid {
+  margin-left: auto;
+  margin-right: auto;
+}
+.titulo {
+  text-align: center;
+  color: red;
+  font-weight: bold;
+}
+.tabletit {
+  color: cyan;
+  text-align: center;
+  background-color: black;
+  font-weight: bold;
+}
+.caption {
+  border: 0;
+  color: green;
+}
